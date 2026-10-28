@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.env
+.env.txt
+.venv/
+__pycache__/
+data/Medical_book.pdf
